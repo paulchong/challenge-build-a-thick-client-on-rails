@@ -1,0 +1,12 @@
+Wed, 06 Nov 2013 10:35:50 -0800
+doc/README_FOR_APP	Wed, 06 Nov 2013 10:26:34 -0800
+app/assets/stylesheets/config.rb	Wed, 06 Nov 2013 10:26:34 -0800
+app/controllers/application_controller.rb	Wed, 06 Nov 2013 10:26:34 -0800
+app/controllers/home_controller.rb	Wed, 06 Nov 2013 10:26:34 -0800
+app/controllers/questions_controller.rb	Wed, 06 Nov 2013 10:26:34 -0800
+app/controllers/quizzes_controller.rb	Wed, 06 Nov 2013 10:26:34 -0800
+app/helpers/application_helper.rb	Wed, 06 Nov 2013 10:26:34 -0800
+app/models/choice.rb	Wed, 06 Nov 2013 10:26:34 -0800
+app/models/question.rb	Wed, 06 Nov 2013 10:26:34 -0800
+app/models/quiz.rb	Wed, 06 Nov 2013 10:26:34 -0800
+app/models/simple_session.rb	Wed, 06 Nov 2013 10:26:34 -0800

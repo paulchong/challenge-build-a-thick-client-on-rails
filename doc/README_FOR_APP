@@ -1,2 +1,19 @@
 Use this README file to introduce your application and point to useful places in the API for learning more.
 Run "rake doc:app" to generate API documentation for your models, controllers, helpers, and libraries.
+objective:  create a quiz app that:
+- renders question to user
+- allows user to submit answer
+- provides feedback on submitted answer's accuracy
+- tallys total correct/incorrect (using sessions)
+
+updates entirely through ajax
+
+
+
+
+
+
+
+Questions:
+- what is the scope of variables across js files?
+- how do you make a JS call to database - this is just ajax
