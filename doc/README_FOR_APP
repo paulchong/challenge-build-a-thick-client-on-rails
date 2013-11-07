@@ -8,12 +8,15 @@ objective:  create a quiz app that:
 
 updates entirely through ajax
 
-
+http://dbc-quizzes.herokuapp.com/
 
 
 
 
 
 Questions:
-- what is the scope of variables across js files?
-- how do you make a JS call to database - this is just ajax
+- how do you select multiple styles for a single element? (a and li)
+- what is the best way to structure the MVC?
+
+Next Step:
+- update the index.html so that it reflects the herokuapp (specific hidden tags for each layer of the app)
